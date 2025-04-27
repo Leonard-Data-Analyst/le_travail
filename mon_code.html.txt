@@ -6,5 +6,6 @@
 	<Body>
 		le corps!!!!
 		Une autre ligne
+		une nouvelle ligne
 	</Body>
 </html>
